@@ -1,6 +1,8 @@
 # PulseAI
 PulseAI is a futuristic AI-driven city and finance platform, automating rewards, governance, and engagement with cutting-edge intelligence.
 
+![alt text](https://github.com/mikagsf-AI/PulseAI/blob/main/mona-happy.gif?raw=true)
+
 # 🌐 NeonEmpire 💎 – AI City & Finance Ecosystem
 
 [![AI City](https://img.shields.io/badge/AI%20City-%E2%9C%A8%20ON-brightgreen?style=for-the-badge)]()
